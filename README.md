@@ -19,8 +19,8 @@ This project provides a REST API to manage music hits. Users can view the top so
 1. Clone the repository:
 
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone [<repository_url>](https://github.com/AmarPowar/music_hit.git)
+   cd music_hit
    ```
 
 2. Install the dependencies:
